@@ -247,6 +247,8 @@ void welcome(){
   printf("Modelos prefabricados:\n");
   printf("- EX_MUTUA (n de caminos alternos, default: 2)\n");
   printf("- FORK (n de caminos alternos, default: 2)\n");
+  printf("Para realizar una busqueda entre places:\n");
+  printf("- FROM <lugar1> TO <lugar2> \n");
 printf("#############################################################\n\n");
 }
 void showAll(){
